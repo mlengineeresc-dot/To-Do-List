@@ -1,0 +1,43 @@
+{
+  "todos": [
+    {
+      "id": "358e",
+      "todo": "todo2",
+      "status": "completed"
+    },
+    {
+      "id": "9603",
+      "todo": "todo6",
+      "status": "pending"
+    }
+  ],
+  "deleted": [
+    {
+      "id": "c21e",
+      "todo": "todo4",
+      "status": "pending"
+    },
+    {
+      "id": "9138",
+      "todo": "todo5",
+      "status": "pending"
+    },
+    {
+      "id": "eed9",
+      "todo": "todo5",
+      "status": "pending"
+    },
+    {
+      "id": "0da8",
+      "todo": "todo3",
+      "status": "completed"
+    },
+   
+   
+    {
+      "id": "bb3b",
+      "todo": "todo1",
+      "status": "completed"
+    }
+  ]
+}
